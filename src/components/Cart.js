@@ -1,5 +1,4 @@
 import React, {useState, useEffect} from 'react';
-import Cartitem from "./CartItem";
 import { Menu, Card, Grid, Container, Message, Button, Icon, Item, Divider} from 'semantic-ui-react';
 
 const Cart = props => {
